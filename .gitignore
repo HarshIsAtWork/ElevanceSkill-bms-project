@@ -1,0 +1,14 @@
+# secrets - never commit
+firmware/secrets.h
+
+# build artifacts
+*.bin
+*.elf
+*.o
+build/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp

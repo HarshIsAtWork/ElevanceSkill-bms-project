@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "../firmware/sketch.ino.bin"
+elf = "../firmware/sketch.ino.elf"
